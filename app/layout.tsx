@@ -21,7 +21,7 @@ const RootLayout: React.FC<RootLayoutProps> = ({
 }) => {
   return (
     <html lang="vi">
-      <GoogleAnalytics gaId="G-P6ZGQH84PP" />
+      <GoogleAnalytics gaId="G-P1S3BJJZQ0" />
       <ThemeRegistry>
         <body className={montserrat.className}>
           <ProvidersContext>{children}</ProvidersContext>
