@@ -25,9 +25,10 @@ export default function HomePage() {
   };
 
   const handleClick = () => {
-    const newCode = generateCode()
-    setCode(newCode.toString())
-    setOpenCode(true)
+    // const newCode = generateCode()
+    // setCode(newCode.toString())
+    // setOpenCode(true)
+    window.open(URL.MWORLD)
   }
 
   const handleCopy = () => {
