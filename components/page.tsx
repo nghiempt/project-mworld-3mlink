@@ -40,14 +40,14 @@ export default function HomePage() {
             <h1 className="text-[14px] lg:text-[16px] font-bold text-red-500 lg:ml-1">sexlink.site</h1>
           </div>
           <div className="w-full border border-gray-100 mt-4">
-            <img src="https://assets.nnpro.me/mw-gg-search.png" alt="image" />
+            <img src="https://assets.nnpro.me/mw-ggfun-search.png" alt="image" />
           </div>
         </div>
 
         <div className="w-full p-6">
           <h1 className="text-[14px] lg:text-[16px] font-medium">Bước 2: Truy cập vào website ở vị trí đầu tiên như hình bên dưới</h1>
           <div className="w-full p-6 border border-gray-100 mt-4">
-            <img src="https://assets.nnpro.me/mw-gg-result.png" alt="image" />
+            <img src="https://assets.nnpro.me/mw-ggfun-result.png" alt="image" />
           </div>
         </div>
 
