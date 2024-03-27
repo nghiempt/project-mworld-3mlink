@@ -37,7 +37,7 @@ export default function HomePage() {
         <div className="w-full p-6">
           <div className="flex flex-wrap">
             <h1 className="text-[14px] lg:text-[16px] font-medium">Bước 1: Vào google.com và tìm kiếm từ khoá:</h1>
-            <h1 className="text-[14px] lg:text-[16px] font-bold text-red-500 lg:ml-1">sexlink.site</h1>
+            <h1 className="text-[14px] lg:text-[16px] font-bold text-red-500 lg:ml-1">sexlink.fun</h1>
           </div>
           <div className="w-full border border-gray-100 mt-4">
             <img src="https://assets.nnpro.me/mw-ggfun-search.png" alt="image" />
